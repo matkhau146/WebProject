@@ -1,6 +1,1 @@
-Noi dung thu 3
-
-
-them moi
-
-them moi nua ne
+-- Xoa bot roi nha
