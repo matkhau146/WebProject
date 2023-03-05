@@ -6,3 +6,5 @@ May tinh 2
 
 -- tạo cònlict
 them tu main 12345
+
+haizzzzz
