@@ -3,3 +3,6 @@ them vaif dong
 //Tao confict
 May tinh 2
 05/03/2023 - Git GUI
+
+-- tạo cònlict
+them tu main 12345
